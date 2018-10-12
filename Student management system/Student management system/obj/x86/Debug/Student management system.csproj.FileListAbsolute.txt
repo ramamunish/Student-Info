@@ -1,0 +1,10 @@
+c:\users\support2\documents\visual studio 2010\Projects\Student management system\Student management system\bin\Debug\Student management system.exe
+c:\users\support2\documents\visual studio 2010\Projects\Student management system\Student management system\bin\Debug\Student management system.pdb
+c:\users\support2\documents\visual studio 2010\Projects\Student management system\Student management system\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\support2\documents\visual studio 2010\Projects\Student management system\Student management system\obj\x86\Debug\Student_management_system.Form1.resources
+c:\users\support2\documents\visual studio 2010\Projects\Student management system\Student management system\obj\x86\Debug\Student_management_system.Properties.Resources.resources
+c:\users\support2\documents\visual studio 2010\Projects\Student management system\Student management system\obj\x86\Debug\Student_management_system.Student_info.resources
+c:\users\support2\documents\visual studio 2010\Projects\Student management system\Student management system\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\support2\documents\visual studio 2010\Projects\Student management system\Student management system\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\support2\documents\visual studio 2010\Projects\Student management system\Student management system\obj\x86\Debug\Student management system.exe
+c:\users\support2\documents\visual studio 2010\Projects\Student management system\Student management system\obj\x86\Debug\Student management system.pdb
