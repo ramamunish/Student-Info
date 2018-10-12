@@ -1,0 +1,10 @@
+C:\Users\support2\documents\visual studio 2010\Projects\LoginApp\LoginApp\bin\Debug\LoginApp.exe
+C:\Users\support2\documents\visual studio 2010\Projects\LoginApp\LoginApp\bin\Debug\LoginApp.pdb
+C:\Users\support2\documents\visual studio 2010\Projects\LoginApp\LoginApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\support2\documents\visual studio 2010\Projects\LoginApp\LoginApp\obj\x86\Debug\LoginApp.frmLogin.resources
+C:\Users\support2\documents\visual studio 2010\Projects\LoginApp\LoginApp\obj\x86\Debug\LoginApp.frmMain.resources
+C:\Users\support2\documents\visual studio 2010\Projects\LoginApp\LoginApp\obj\x86\Debug\LoginApp.Properties.Resources.resources
+C:\Users\support2\documents\visual studio 2010\Projects\LoginApp\LoginApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\support2\documents\visual studio 2010\Projects\LoginApp\LoginApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\support2\documents\visual studio 2010\Projects\LoginApp\LoginApp\obj\x86\Debug\LoginApp.exe
+C:\Users\support2\documents\visual studio 2010\Projects\LoginApp\LoginApp\obj\x86\Debug\LoginApp.pdb
